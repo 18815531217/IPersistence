@@ -31,4 +31,5 @@ public class BoundSql {
     public void setParameterMappingList(List<ParameterMapping> parameterMappingList) {
         this.parameterMappingList = parameterMappingList;
     }
+
 }
